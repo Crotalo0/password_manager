@@ -1,0 +1,14 @@
+{
+    "EBAY": {
+        "email": "test@test.com",
+        "password": "gAAAAABjMkg6kabZww2V-9Z4TQhfisK8DUOUatlZs-2GvlQUTmStDBPPR8RJZZcjA96fmQxUMO7Y12UKuJXvLW5YxmLhJmG1fw=="
+    },
+    "AMAZON": {
+        "email": "test@test.com",
+        "password": "gAAAAABjMkhITiECVWWyGbGnFMmpciGqYwCtbnIfeaiWV0EdVUwnKZk9nVGQvEMY6d54Pv5Uf3U2Ltpd_fiI_jotDoyrU7znFA=="
+    },
+    "NETFLIX": {
+        "email": "test@test.com",
+        "password": "gAAAAABjMkhWeAlvrowPovTtmw_LxQv4EDI0teTUM91XKme2PHc9P1p6KcHOVYmc4MdHa70kUnq3EpeAmDZIuEQl_kLyu0pP4g=="
+    }
+}

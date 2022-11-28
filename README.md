@@ -12,6 +12,6 @@ for next access just click load encryption key.
 Make sure that my_key.key is in the same dir.
 
 To see saved passwords:
-Enter site for which password is needed, clich search, enter master password.
+Enter site for which password is needed, click search, enter master password.
 
 Password are encrypted with fernet library and saved in a .json file in working directory.
